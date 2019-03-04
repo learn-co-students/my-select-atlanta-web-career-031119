@@ -10,6 +10,7 @@ def my_select(collection)
         else
           i+=1
         end
+      end
         return new_array
     else
       puts "Collection contains 0 entries"
